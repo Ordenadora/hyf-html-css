@@ -71,11 +71,11 @@ clear: none;
 }
 @media screen and (min-width: 601px){
     #grid-floats .grid-item:nth-child(1){
-        width: calc((100% / 2) * 2 - 1em);
+        width: calc((100% / 2) * 1 - 1em);
         background-color:blueviolet;
     }  
     #grid-floats .grid-item:nth-child(2){
-        width: calc((100% / 2) * 2 - 1em);
+        width: calc((100% / 2) * 1 - 1em);
         background-color:blueviolet;
     }
     #grid-floats .grid-item{
