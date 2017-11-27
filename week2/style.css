@@ -66,6 +66,7 @@ img{
     }  
     #grid-floats .grid-item:nth-child(2){
         width: calc((100% / 2) * 2 - 1em);
+        background-color:blueviolet;
     }
     #grid-floats .grid-item{
         width: calc(100% / 3 - 1em);
@@ -90,6 +91,7 @@ img{
     }
     #grid-floats .grid-item:nth-child(2){
         width: 25%;
+        background-color: rgb(183, 147, 204);
     }
     #grid-floats .grid-item:nth-child(even){
         clear:none;
